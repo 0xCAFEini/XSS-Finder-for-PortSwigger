@@ -1,6 +1,6 @@
 # XSS Finder for PortSwigger
 
-Script created for the PortSwigger lab "DOM XSS in document.write sink using source location.search."
+Script created for the PortSwigger lab "Reflected XSS into HTML context with most tags and attributes blocked"
 
 This script performs brute-force on URLs to identify cross-site scripting vulnerabilities.
 
